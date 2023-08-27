@@ -13,5 +13,5 @@ public class LabProgram {
 	   Arrays.sort(arr);
 	   System.out.println(arr[0] + " and " + arr[1]);
 			   
-   }
+   } //change to pull back
 }
